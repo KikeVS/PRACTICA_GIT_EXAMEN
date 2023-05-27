@@ -4,3 +4,5 @@
 		1 - Reina Roja.
 		2 - Loba Negra.
 		3 - Rey Blanco.
+		4 - Cicatriz.
+		5 - El paciente.
