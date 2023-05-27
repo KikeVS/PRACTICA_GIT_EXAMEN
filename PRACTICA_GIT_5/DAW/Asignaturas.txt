@@ -3,3 +3,6 @@
 		
 		1 - Entornos de desarrollo.
 		2 - Bases de datos.
+		3 - Programación.
+		4 - Lenguaje de marcas.
+		5 - Sistemas informáticos.
