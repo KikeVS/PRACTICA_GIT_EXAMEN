@@ -1,6 +1,0 @@
-
-	COMIDAS --> 
-
-		1 - Arroz al horno.
-		2 - Paella valenciana.
-		3 - Fidegua.
